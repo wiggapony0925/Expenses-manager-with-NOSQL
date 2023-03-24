@@ -1,1 +1,2 @@
 # Expenses-manager-with-NOSQL
+I deployed a Streamlit application to facilitate the management of personal expenses over time, visualizing the data on an interactive Sankey diagram. The data is sourced from a NoSQL database hosted on Deta Space. Through independent research and utilization of various resources, including YouTube, I successfully configured the application's settings and debugged any errors present in the code.
